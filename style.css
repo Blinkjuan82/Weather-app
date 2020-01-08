@@ -1,0 +1,28 @@
+.navbar{
+    padding-bottom:20px;
+}
+#mainContainer{
+    margin-top:100px
+    
+}
+#leftColumn{
+    /* padding-top:200px;
+    padding-bottom:10px; */
+    border:1px solid;
+    padding-bottom:20px;
+    float:left;
+    /* margin:10px; */
+    /* position: relative; */
+    width:auto;
+   
+    /* padding-right:30px; */
+
+}
+#rightColumn{
+    /* padding-top:100px; */
+    border:1px solid;
+    float:right;
+    /* position:relative; */
+    /* margin:10px; */
+    width:auto;
+}
